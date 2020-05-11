@@ -27,6 +27,25 @@ ul>li*5
     <li></li>
 </ul>
 
+table>tr*3>td*3
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 ul>li.item$*5
 <ul>
     <li class="item1"></li>
