@@ -4,8 +4,13 @@ See the full list at https://docs.emmet.io/cheat-sheet/
 
 ## HTML
 
-
 ```html
+h1
+<h1></h1>
+
+p>lorem
+<p>Lorem ....</p>
+
 nav>ul>li
 <nav>
     <ul>
